@@ -1,0 +1,37 @@
+{
+	"compilerOptions": {
+		"allowSyntheticDefaultImports": true,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"jsx": "react-native",
+		"lib": ["ES2015", "ES2016", "ES2017", "ES2018"],
+		"module": "es2015",
+		"moduleResolution": "node",
+		"forceConsistentCasingInFileNames": true,
+		"esModuleInterop": true,
+		"importHelpers": true,
+		"resolveJsonModule": true,
+		"noEmit": true,
+		"noImplicitAny": false,
+		"skipLibCheck": true,
+		"sourceMap": true,
+		"strict": true,
+		"target": "es2017",
+		"baseUrl": "./src",
+		"paths": {
+			"src": ["./src"],
+			"Component": ["./src/Components"]
+		},
+		"typeRoots": ["./@types", "./node_modules/@types"]
+	},
+	"include": ["src/**/*.ts", "src/**/*.tsx"],
+	"exclude": ["node_modules", "**/*.test.tsx", "**/*.spec.ts"],
+	"jest": {
+		"globals": {
+			"ts-jest": {
+				"skipBabel": true
+				// "tsConfigFile": "my-tsconfig.json"
+			}
+		}
+	}
+}

@@ -1,0 +1,193 @@
+[
+	{
+		"id": 1,
+		"name": "Luật tố tụng hình sự",
+		"from": 1609693200000,
+		"to": 1620579599000,
+		"code": "N05",
+		"times": [
+			{
+				"caId": 1,
+				"weekday": 1,
+				"type": "LT",
+				"room": "B502",
+				"tlGroup": null,
+				"note": null
+			},
+			{
+				"caId": 2,
+				"weekday": 5,
+				"type": "TL",
+				"room": "A1102",
+				"tlGroup": "TL3",
+				"note": null
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Xây dựng văn bản pháp luật",
+		"from": 1609693200000,
+		"to": 1620579599000,
+		"code": "N05",
+		"times": [
+			{
+				"caId": 1,
+				"weekday": 2,
+				"type": "LT",
+				"room": "B501",
+				"tlGroup": null,
+				"note": null
+			},
+			{
+				"caId": 1,
+				"weekday": 5,
+				"type": "TL",
+				"room": "A1101",
+				"tlGroup": "TL3",
+				"note": null
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Chủ nghĩa xã hội khoa học",
+		"from": 1609693200000,
+		"to": 1612717199000,
+		"code": "N05",
+		"times": [
+			{
+				"caId": 2,
+				"weekday": 1,
+				"type": "LT",
+				"room": "B602",
+				"tlGroup": null,
+				"note": null
+			},
+			{
+				"caId": 5,
+				"weekday": 2,
+				"type": "LT",
+				"room": "B501",
+				"tlGroup": null,
+				"note": null
+			},
+			{
+				"caId": 4,
+				"weekday": 5,
+				"type": "TL",
+				"room": "A1202",
+				"tlGroup": "TL3",
+				"note": null
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Luật thương mại",
+		"from": 1609693200000,
+		"to": 1620579599000,
+		"code": "N05",
+		"times": [
+			{
+				"caId": 2,
+				"weekday": 2,
+				"type": "LT",
+				"room": "B601",
+				"tlGroup": null,
+				"note": null
+			},
+			{
+				"caId": 6,
+				"weekday": 4,
+				"type": "TL",
+				"room": "A1106",
+				"tlGroup": "TL3",
+				"note": null
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Luật hôn nhân và gia đình",
+		"from": 1609693200000,
+		"to": 1620579599000,
+		"code": "N05",
+		"times": [
+			{
+				"caId": 3,
+				"weekday": 1,
+				"type": "LT",
+				"room": "B503",
+				"tlGroup": null,
+				"note": null
+			},
+			{
+				"caId": 6,
+				"weekday": 5,
+				"type": "TL",
+				"room": "A1104",
+				"tlGroup": "TL3",
+				"note": null
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Trung Văn",
+		"from": 1609693200000,
+		"to": 1620579599000,
+		"code": "N03",
+		"times": [
+			{
+				"weekday": 1,
+				"caId": 4,
+				"type": null,
+				"room": "A1101",
+				"tlGroup": "1BA",
+				"note": null
+			},
+			{
+				"weekday": 2,
+				"caId": 4,
+				"type": null,
+				"room": "A1005",
+				"tlGroup": "1BA",
+				"note": null
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Tư Pháp ĐVNCTN",
+		"from": 1617555600000,
+		"to": 1620579599000,
+		"code": "N04",
+		"times": [
+			{
+				"weekday": 1,
+				"caId": 5,
+				"type": "LT",
+				"room": "C301",
+				"tlGroup": null,
+				"note": null
+			},
+			{
+				"weekday": 2,
+				"caId": 5,
+				"type": "LT",
+				"room": "A802",
+				"tlGroup": null,
+				"note": null
+			},
+			{
+				"weekday": 3,
+				"caId": 5,
+				"type": "TL",
+				"room": "B601",
+				"tlGroup": "TL2",
+				"note": null
+			}
+		]
+	}
+]

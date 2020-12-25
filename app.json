@@ -1,0 +1,12 @@
+{
+	"appIdentifier": "com.neos.tkb",
+	"appVersion": "1.0.0",
+	"buildNumber": 1,
+	"name": "tkbapp",
+	"displayName": "tkb",
+	"entryPoint": "index.js",
+	"packagerOpts": {
+		"assetExts": ["ttf", "png"],
+		"sourceExts": ["ts", "tsx"]
+	}
+}
